@@ -63,7 +63,7 @@ We have also created small modular workshops for each section of MS Learn. **The
 ### Checklist :white_check_mark:
 
 - [ ] Week 1 (15 APR - 21 APR)
-  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
+  - [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
   - [ ] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
   - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [ ] Week 2 (22 APR - 28 APR)
@@ -77,9 +77,9 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
   - [ ] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
 - [ ] Week 5 (13 MAY - 19 MAY)
-  - [ ] First half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
+  - [x] First half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
 - [ ] Week 6 (20 MAY - 26 MAY)
-  - [ ] Second half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the second **4** modules)
+  - [x] Second half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the second **4** modules)
   - [ ] [5. C# workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/5.%20C%23%20workshop)
 - [ ] Week 7 (27 MAY - 2 JUN)
   - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
